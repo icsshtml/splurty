@@ -1,5 +1,17 @@
+
 header{
 	border-top: 9px solid #222222;	
+}
+
+h1{
+	font-family: 'open_sansextrabold';
+	font-weight: bold;
+	font-size: 48px;
+}
+
+h2{
+	font-family: 'open_sansextrabold';
+	font-weight: bold;
 }
 
 .clear{
@@ -43,4 +55,6 @@ hr{
 	color: black;
 	font-size: 25px;
 	border-bottom: 1px solid #dfdfdf;
+	font-family: 'open_sansextrabold';
+	font-weight: bold;
 }
