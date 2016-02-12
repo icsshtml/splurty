@@ -5,6 +5,7 @@
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 	<header>
@@ -39,7 +40,6 @@
 	        <h4 class="modal-title" id="myModalLabel">Contribute your quote</h4>
 	      </div>
 	      <div class="modal-body">
-	        <h1>Enter Your Quote Details</h1>
 				<%= simple_form_for Quote.new do |f| %>
 					<%= f.input :saying, label: "What What is the saying you want to add?", placeholder: "Fear is the disease. Hustle is the antidote." %>
 					<br />
