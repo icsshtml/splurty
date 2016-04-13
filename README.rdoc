@@ -1,7 +1,3 @@
 == README
 
-"Pizza is Awesome!"
-
-#我在美国过年# 来自拉斯维加斯The Meadows School的学生在The Forum Shops裡举行了盛大的农历新年大巡游。拉斯维加斯的市长Carolyn Goodman也出席了当天的活动，与大家一起迎接猴年。[发红包啦] Photo Credit: Mark Damon/Las Vegas News Bureau
-
--Min
+Pizza is Awesome!
