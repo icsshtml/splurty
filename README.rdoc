@@ -1,4 +1,4 @@
 == README
 
 pizza is Awesome!
-- Jonathan Li
+- Jonathan Li from San Francisco
